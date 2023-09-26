@@ -3,3 +3,7 @@ This is a scheduler that functions off of JavaScript/jQuery. This can function a
 
 Here is a preview of its use
 ![image](https://github.com/RobbieBet/Calendar/assets/141300438/e7be06aa-6118-4158-8e95-21e8c31c992e)
+
+Here is my deployed application
+https://robbiebet.github.io/Calendar/
+
